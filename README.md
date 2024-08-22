@@ -5,6 +5,11 @@
 ## Overview
 The **Hotel Services App** is a comprehensive platform designed to enhance the guest experience by providing a seamless way to manage hotel stays, book rooms, access amenities, and much more—all from a mobile device. This app is packed with features that cater to both guests and hotel management, ensuring an exceptional user experience.
 
+## Screenshots
+![Screenshot 1](./images/screenshot1.png)
+![Screenshot 2](./images/screenshot2.png)
+![Screenshot 3](./images/screenshot3.png)
+
 ## Features
 
 ### 1. User Authentication & Profile Management
@@ -77,10 +82,7 @@ The **Hotel Services App** is a comprehensive platform designed to enhance the g
 - **Scalability:** Built to handle a large number of users and bookings.
 - **Error Handling:** User-friendly error messages for a better user experience.
 
-## Screenshots
-![Screenshot 1](./images/screenshot1.png)
-![Screenshot 2](./images/screenshot2.png)
-![Screenshot 3](./images/screenshot3.png)
+
 
 ## Installation
 1. Clone the repository:
