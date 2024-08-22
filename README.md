@@ -85,7 +85,4 @@ The **Hotel Services App** is a comprehensive platform designed to enhance the g
 
 
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/hotel-services-app.git
+
