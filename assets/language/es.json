@@ -1,0 +1,16 @@
+{
+    "login": "LOGIN",
+    "signup": "SIGNUP",
+    "home": "Home",
+    "rooms": "Rooms",
+    "cart": "Cart",
+    "services": "Services",
+    "account": "Account",
+    "notifications": "Notifications",
+    "promotions": "Promotions",
+    "dark_mode": "Dark Mode",
+    "language": "Language",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "select_language": "Seleccionar idioma"
+  }
